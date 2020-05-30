@@ -1,6 +1,8 @@
 # Semsbook-Blog
-MERN Stack Blog App
+MERN Stack Blog App(Responsive)
  # ScreenShots
- -(https://ibb.co/DLTD3dT)
--https://ibb.co/w4cBjgd
+ ![Alt Text](https://i.ibb.co/M9QDqdQ/Ekran-Al-nt-s-1.png)
+  ![Alt Text](https://i.ibb.co/kXm5vBG/Ekran-Al-nt-s-2.png)
+![Alt Text](https://i.ibb.co/mhKsmB1/Ekran-Al-nt-s.png)
 Live demo:https://polar-atoll-44653.herokuapp.com/#/
+
