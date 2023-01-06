@@ -9,7 +9,7 @@
     "react-datepicker": "^2.14.1",
     "react-dom": "^16.9.0",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "0.9.5",
+    "react-scripts": "5.0.1",
     "react-test-renderer": "0.0.0-235a6c4af"
   },
   "devDependencies": {
